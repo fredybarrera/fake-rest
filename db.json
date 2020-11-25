@@ -13,52 +13,8 @@
       "name": "III Región de Atacama"
     },
     {
-      "id": 4,
-      "name": "IV Región de Coquimbo"
-    },
-    {
-      "id": 5,
-      "name": "V Región de Valparaíso"
-    },
-    {
-      "id": 6,
-      "name": "VI Región del Libertador General Bernardo O’Higgins"
-    },
-    {
-      "id": 7,
-      "name": "VII Región del Maule"
-    },
-    {
       "id": 8,
       "name": "VIII Región del Biobío"
-    },
-    {
-      "id": 9,
-      "name": "IX Región de La Araucanía"
-    },
-    {
-      "id": 10,
-      "name": "X Región de Los Lagos"
-    },
-    {
-      "id": 11,
-      "name": "XI Región Aysén del General Carlos Ibáñez del Campo"
-    },
-    {
-      "id": 12,
-      "name": "XII Región de Magallanes y Antártica Chilena"
-    },
-    {
-      "id": 13,
-      "name": "Región Metropolitana de Santiago"
-    },
-    {
-      "id": 14,
-      "name": "XIV Región de Los Ríos"
-    },
-    {
-      "id": 15,
-      "name": "XV Región de Arica y Parinacota"
     },
     {
       "id": 16,
@@ -97,36 +53,8 @@
       "name": "Florida"
     },
     {
-      "id": 5,
-      "name": "Hualpén"
-    },
-    {
-      "id": 6,
-      "name": "Hualqui"
-    },
-    {
-      "id": 7,
-      "name": "Lota"
-    },
-    {
-      "id": 8,
-      "name": "Penco"
-    },
-    {
-      "id": 9,
-      "name": "San Pedro de la Paz"
-    },
-    {
-      "id": 10,
-      "name": "Santa Juana."
-    },
-    {
       "id": 11,
       "name": "Talcahuano"
-    },
-    {
-      "id": 12,
-      "name": "Tomé"
     }
   ],
   "getCalles": [
@@ -149,18 +77,6 @@
     {
       "id": 5,
       "name": "Alto horno"
-    },
-    {
-      "id": 6,
-      "name": "Desiderio garcia"
-    },
-    {
-      "id": 7,
-      "name": "Cervantes"
-    },
-    {
-      "id": 8,
-      "name": "Latorre"
     }
   ],
   "getNumeros": [
@@ -183,18 +99,6 @@
     {
       "id": 5,
       "name": 104
-    },
-    {
-      "id": 6,
-      "name": 105
-    },
-    {
-      "id": 7,
-      "name": 106
-    },
-    {
-      "id": 8,
-      "name": 107
     }
   ],
   "getData1": [
