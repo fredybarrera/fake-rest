@@ -1,35 +1,11 @@
 {
   "getRegiones": [
     {
-      "id": 1,
-      "name": "I Región de Tarapacá"
-    },
-    {
-      "id": 2,
-      "name": "II Región de Antofagasta"
-    },
-    {
-      "id": 3,
-      "name": "III Región de Atacama"
-    },
-    {
-      "id": 8,
+      "id": 48,
       "name": "VIII Región del Biobío"
-    },
-    {
-      "id": 16,
-      "name": "XVI Región de Ñuble"
     }
   ],
   "getProvincias": [
-    {
-      "id": 1,
-      "name": "Arauco"
-    },
-    {
-      "id": 2,
-      "name": "Biobío"
-    },
     {
       "id": 3,
       "name": "Concepción"
@@ -37,23 +13,7 @@
   ],
   "getComunas": [
     {
-      "id": 1,
-      "name": "Concepción"
-    },
-    {
-      "id": 2,
-      "name": "Chiguayante"
-    },
-    {
-      "id": 3,
-      "name": "Coronel"
-    },
-    {
-      "id": 4,
-      "name": "Florida"
-    },
-    {
-      "id": 11,
+      "id": 5,
       "name": "Talcahuano"
     }
   ],
@@ -61,44 +21,12 @@
     {
       "id": 1,
       "name": "Avenida colon"
-    },
-    {
-      "id": 2,
-      "name": "Blanco encalada"
-    },
-    {
-      "id": 3,
-      "name": "Lautaro"
-    },
-    {
-      "id": 4,
-      "name": "Bilbao"
-    },
-    {
-      "id": 5,
-      "name": "Alto horno"
     }
   ],
   "getNumeros": [
     {
       "id": 1,
       "name": 100
-    },
-    {
-      "id": 2,
-      "name": 101
-    },
-    {
-      "id": 3,
-      "name": 102
-    },
-    {
-      "id": 4,
-      "name": 103
-    },
-    {
-      "id": 5,
-      "name": 104
     }
   ],
   "getData1": [
