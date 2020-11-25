@@ -131,7 +131,7 @@
       "name": 107
     }
   ],
-  "getData1": [
+  "getData1": 
     {
       "objectid":"4588192",  
       "status":"M",  
@@ -206,5 +206,4 @@
       "direccion_normal_ine":"461 CALAMA",  
       "fuente":"RSH"
     }
-  ]
 }
